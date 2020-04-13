@@ -1,0 +1,17 @@
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\BankingTests.deps.json
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\BankingTests.runtimeconfig.json
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\BankingTests.runtimeconfig.dev.json
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\BankingTests.dll
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\BankingTests.pdb
+D:\Code\_dotnet\MySuperBank\BankingTests\obj\Debug\netcoreapp2.1\BankingTests.csprojAssemblyReference.cache
+D:\Code\_dotnet\MySuperBank\BankingTests\obj\Debug\netcoreapp2.1\BankingTests.csproj.CoreCompileInputs.cache
+D:\Code\_dotnet\MySuperBank\BankingTests\obj\Debug\netcoreapp2.1\BankingTests.AssemblyInfoInputs.cache
+D:\Code\_dotnet\MySuperBank\BankingTests\obj\Debug\netcoreapp2.1\BankingTests.AssemblyInfo.cs
+D:\Code\_dotnet\MySuperBank\BankingTests\obj\Debug\netcoreapp2.1\BankingTests.dll
+D:\Code\_dotnet\MySuperBank\BankingTests\obj\Debug\netcoreapp2.1\BankingTests.pdb
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\MySuperBank.dll
+D:\Code\_dotnet\MySuperBank\BankingTests\bin\Debug\netcoreapp2.1\MySuperBank.pdb
+D:\Code\_dotnet\MySuperBank\BankingTests\obj\Debug\netcoreapp2.1\BankingTests.csproj.CopyComplete

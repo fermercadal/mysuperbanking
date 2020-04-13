@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "projectName": "BankyStuffLibrary",
+        "projectPath": "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "packagesPath": "C:\\Users\\Fernando Mercadal\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando Mercadal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Humanizer.Core": {
+              "target": "Package",
+              "version": "[2.7.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

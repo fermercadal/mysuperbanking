@@ -1,0 +1,14 @@
+D:\Code\_dotnet\MySuperBank\MySuperBank\bin\Release\netcoreapp2.1\MySuperBank.deps.json
+D:\Code\_dotnet\MySuperBank\MySuperBank\bin\Release\netcoreapp2.1\MySuperBank.runtimeconfig.json
+D:\Code\_dotnet\MySuperBank\MySuperBank\bin\Release\netcoreapp2.1\MySuperBank.runtimeconfig.dev.json
+D:\Code\_dotnet\MySuperBank\MySuperBank\bin\Release\netcoreapp2.1\MySuperBank.dll
+D:\Code\_dotnet\MySuperBank\MySuperBank\bin\Release\netcoreapp2.1\MySuperBank.pdb
+D:\Code\_dotnet\MySuperBank\MySuperBank\bin\Release\netcoreapp2.1\BankyStuffLibrary.dll
+D:\Code\_dotnet\MySuperBank\MySuperBank\bin\Release\netcoreapp2.1\BankyStuffLibrary.pdb
+D:\Code\_dotnet\MySuperBank\MySuperBank\obj\Release\netcoreapp2.1\MySuperBank.csprojAssemblyReference.cache
+D:\Code\_dotnet\MySuperBank\MySuperBank\obj\Release\netcoreapp2.1\MySuperBank.csproj.CoreCompileInputs.cache
+D:\Code\_dotnet\MySuperBank\MySuperBank\obj\Release\netcoreapp2.1\MySuperBank.AssemblyInfoInputs.cache
+D:\Code\_dotnet\MySuperBank\MySuperBank\obj\Release\netcoreapp2.1\MySuperBank.AssemblyInfo.cs
+D:\Code\_dotnet\MySuperBank\MySuperBank\obj\Release\netcoreapp2.1\MySuperBank.csproj.CopyComplete
+D:\Code\_dotnet\MySuperBank\MySuperBank\obj\Release\netcoreapp2.1\MySuperBank.dll
+D:\Code\_dotnet\MySuperBank\MySuperBank\obj\Release\netcoreapp2.1\MySuperBank.pdb

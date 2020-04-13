@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\_dotnet\\MySuperBank\\BankingTests\\BankingTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\_dotnet\\MySuperBank\\BankingTests\\BankingTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\_dotnet\\MySuperBank\\BankingTests\\BankingTests.csproj",
+        "projectName": "BankingTests",
+        "projectPath": "D:\\Code\\_dotnet\\MySuperBank\\BankingTests\\BankingTests.csproj",
+        "packagesPath": "C:\\Users\\Fernando Mercadal\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\_dotnet\\MySuperBank\\BankingTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando Mercadal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Code\\_dotnet\\MySuperBank\\MySuperBank\\MySuperBank.csproj": {
+                "projectPath": "D:\\Code\\_dotnet\\MySuperBank\\MySuperBank\\MySuperBank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "projectName": "BankyStuffLibrary",
+        "projectPath": "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "packagesPath": "C:\\Users\\Fernando Mercadal\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando Mercadal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Humanizer.Core": {
+              "target": "Package",
+              "version": "[2.7.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Code\\_dotnet\\MySuperBank\\MySuperBank\\MySuperBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\_dotnet\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+        "projectName": "MySuperBank",
+        "projectPath": "D:\\Code\\_dotnet\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+        "packagesPath": "C:\\Users\\Fernando Mercadal\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\_dotnet\\MySuperBank\\MySuperBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando Mercadal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+                "projectPath": "D:\\Code\\_dotnet\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
